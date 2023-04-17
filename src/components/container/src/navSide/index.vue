@@ -17,6 +17,10 @@
         <el-icon-location />
         <span>省市区选择器</span>
       </el-menu-item>
+      <el-menu-item index="3">
+        <el-icon-location />
+        <span>趋势选择器</span>
+      </el-menu-item>
     </el-menu>
   </div>
 </template>
